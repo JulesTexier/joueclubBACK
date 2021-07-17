@@ -1,0 +1,2 @@
+class Inscrit < ApplicationRecord
+end
